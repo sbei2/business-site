@@ -1,0 +1,65 @@
+Privacy Policy – KH5H TikTok Research Application
+Effective Date: 10/31/2025
+1. Who We Are
+[Your Company Name] (“we”, “us”, “our”) provides the KH5H software application, which connects to TikTok’s public API for research and learning purposes. This Privacy Policy explains how we collect, use, store, and protect personal information when you interact with KH5H or visit our website.
+2. Information We Collect
+Category	Description	Source
+Account & Authentication Data	Email address (if you create a support or developer account), usernames, passwords (hashed), OAuth tokens, API keys.	Directly from you when you sign up or authorize TikTok.
+Usage & Diagnostic Data	IP address, device type, operating system, browser version, timestamps, error logs, feature usage statistics.	Automatically collected by the app and our web server.
+TikTok Data Retrieved via API	Public TikTok profile information, video metadata, hashtags, follower counts, likes, comments (only if publicly visible).	Pulled in real‑time from TikTok’s API when you use the app.
+Contact Information	Email address you provide for support inquiries.	Directly from you when you contact us.
+Cookies & Similar Technologies	Session cookies, preference cookies, analytics identifiers.	Set by our website to improve user experience.
+What we do NOT collect: Private TikTok messages, direct messages, passwords for TikTok accounts, or any data that TikTok classifies as non‑public.
+3. How We Use Your Information
+Provide & Maintain the Service – Authenticate you, store necessary credentials, and enable real‑time API calls to TikTok.
+Improve the Product – Analyze usage patterns and diagnostic logs to fix bugs, enhance performance, and develop new features.
+Communicate with You – Respond to support tickets, send service‑related announcements, and provide security alerts.
+Legal Compliance – Satisfy lawful requests, enforce our Terms of Service, and protect our rights and the rights of others.
+Analytics (Optional) – If you opt‑in, we may use aggregated, anonymized data for statistical reporting (e.g., number of active users per month).
+All processing is performed in accordance with applicable data‑protection laws (e.g., GDPR, CCPA) where they apply.
+4. Data Retention
+Data Type	Retention Period
+Account credentials & OAuth tokens	Until you delete your account or revoke the token.
+Usage & diagnostic logs	30 days (short‑term) for troubleshooting; aggregated statistics retained indefinitely in anonymized form.
+TikTok public data fetched via API	Only while you have it cached locally; we do not store it on our servers beyond the duration of the active session.
+Support communications	90 days after the last interaction, unless a longer period is required for legal reasons.
+5. Data Sharing & Disclosure
+We do not sell your personal information. We may share data with third parties only in the following circumstances:
+Service Providers – Cloud hosting, email delivery, and analytics providers that process data on our behalf under strict contractual safeguards.
+Legal Requirements – Government authorities, court orders, or regulatory bodies when required by law.
+Business Transfers – In the event of a merger, acquisition, or sale of assets, provided the acquiring entity agrees to honor this Privacy Policy.
+All third‑party recipients are contractually obligated to use the data solely for the purposes we specify and to protect it with comparable security measures.
+6. International Data Transfers
+Our primary infrastructure resides in United States. If we transfer your data outside the European Economic Area (EEA) or other jurisdictions with stricter privacy regimes, we will rely on:
+Standard Contractual Clauses (SCCs) approved by the European Commission, or
+Adequate protection frameworks (e.g., UK‑EU adequacy decision, Swiss‑EU equivalence).
+7. Your Rights
+Depending on your jurisdiction, you may have the following rights:
+Access – Request a copy of the personal data we hold about you.
+Rectification – Correct inaccurate or incomplete data.
+Erasure (“Right to be Forgotten”) – Delete your account and associated personal data.
+Restriction – Limit processing of your data in certain circumstances.
+Portability – Receive your data in a structured, commonly used format.
+Object – Object to processing for direct marketing or legitimate‑interest grounds.
+To exercise any of these rights, contact us at contact@zun0.net. We will respond within 30 days, unless a longer period is required by law.
+8. Security Measures
+We employ industry‑standard safeguards, including:
+TLS encryption for data in transit.
+AES‑256 encryption for stored credentials (password hashes, OAuth tokens).
+Regular security audits and vulnerability scanning.
+Role‑based access controls for our internal systems.
+While we strive to protect your information, no method of transmission over the internet or electronic storage is 100 % secure. You acknowledge that we cannot guarantee absolute security.
+9. Children’s Privacy
+Our service is not directed to children under 13 years of age, and we do not knowingly collect personal information from anyone younger than 13. If you become aware that a child has provided us with personal data, please contact us so we can promptly delete such information.
+10. Links to Third‑Party Sites
+KH5H may contain links to TikTok’s developer portal, documentation, or other external resources. This Privacy Policy does not apply to those sites. We encourage you to review the privacy notices of any third‑party websites you visit.
+11. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. When we do, we will:
+Post the revised version on this page with an updated “Effective Date.”
+Notify registered users via email (if we have a contact address on file).
+Your continued use of KH5H after any changes constitutes acceptance of the updated policy.
+12. Contact Us
+If you have questions, concerns, or requests regarding this Privacy Policy, please reach out to:
+ZUN0
+Privacy Officer / Data Protection Lead
+Email: contact@zun0.net
