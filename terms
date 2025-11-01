@@ -1,0 +1,47 @@
+Terms of Service – KH5H TikTok Research App
+Effective Date: 10/31/2025
+1. Introduction
+These Terms of Service (“Terms”) govern your use of KH5H, a software application that connects to TikTok’s public API for research and learning purposes. By accessing or using KH5H you agree to be bound by these Terms. If you do not agree, you must not use the application.
+2. Eligibility
+You must be at least 18 years old and have the legal authority to bind any organization you represent. Use of KH5H must also comply with TikTok’s Developer Policies and any applicable local laws.
+3. License
+Subject to these Terms, ZUN0 (“we”, “us”, “our”) grants you a limited, non‑exclusive, revocable, worldwide license to:
+Install and run KH5H on devices you control;
+Use the software solely for lawful research, education, or personal learning activities involving publicly available TikTok data.
+You may not:
+Distribute, sell, lease, or sublicense KH5H to third parties;
+Modify, reverse‑engineer, or create derivative works of the software;
+Use KH5H to harvest private TikTok user data or otherwise violate TikTok’s API usage policies.
+4. Data Access & Usage
+KH5H accesses only publicly available TikTok data (e.g., public profiles, video metadata, hashtag information). You are responsible for:
+Ensuring that any data retrieved is used in compliance with applicable laws, regulations, and TikTok’s terms;
+Not storing or sharing personal data in a manner that breaches privacy rights.
+All data is fetched in real time and processed locally; we do not retain TikTok data on our servers.
+5. Privacy
+Our privacy practices are described in a separate Privacy Policy ([link]). By using KH5H you consent to the collection, use, and retention of information as outlined therein.
+6. Security
+You must safeguard any access tokens, API keys, or credentials obtained through the TikTok OAuth flow. If you suspect a compromise, revoke the credentials immediately via the TikTok developer portal and notify us at support@[yourcompany].com.
+7. Disclaimer of Warranties
+KH5H is provided “as‑is” and “as‑available” without warranties of any kind, express or implied, including but not limited to:
+Merchantability;
+Fitness for a particular purpose;
+Non‑infringement;
+Accuracy, reliability, or completeness of data retrieved from TikTok.
+We do not guarantee uninterrupted or error‑free operation.
+8. Limitation of Liability
+To the fullest extent permitted by law, ZUN0 shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of profits, data, or use arising out of or related to KH5H, even if we have been advised of the possibility of such damages.
+9. Indemnification
+You agree to defend, indemnify, and hold harmless ZUN0, its affiliates, officers, and employees from any claim, demand, or suit (including reasonable attorneys’ fees) arising out of:
+Your breach of these Terms;
+Your misuse of KH5H or violation of TikTok’s policies;
+Any third‑party claim that your use of KH5H infringes its rights.
+10. Termination
+We may suspend or terminate your access to KH5H at any time, with or without cause, upon written notice. Upon termination, you must cease all use of the software and delete any stored credentials.
+11. Governing Law & Jurisdiction
+These Terms are governed by the laws of New Jersey, without regard to conflict‑of‑law principles. Any dispute arising under these Terms shall be resolved exclusively in the courts of [City, Country].
+12. Changes to These Terms
+We may revise these Terms from time to time. Revised versions will be posted on this page with an updated “Effective Date.” Continued use of KH5H after such changes constitutes acceptance of the new Terms.
+13. Contact Information
+If you have any questions about these Terms, please contact us at:
+ZUN0
+Email: contact@zun0.net
